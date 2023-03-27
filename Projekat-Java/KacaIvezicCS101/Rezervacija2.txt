@@ -1,0 +1,7 @@
+Putnik Ime i prezime: vanja d
+ Polaziste: subotica 
+ Odrediste=beograd
+
+
+ Rezervacija: subotica beograd 1000
+ 
